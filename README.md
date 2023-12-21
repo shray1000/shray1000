@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shray1000
-- 👀 I’m intrested in coding languages like C++ and C. 
+- 👀 I’m intrested in coding languages like Python and C#. 
 - 🌱 I’m currently learning Python, Java and SQL.
 - 💞️ I want to become a Good Software Developer.
 - 📫 You can contact me via E.mail:- shraysharmagnps@gmail.com
